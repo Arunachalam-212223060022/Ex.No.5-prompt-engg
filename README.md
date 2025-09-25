@@ -1,4 +1,4 @@
-
+[!DOCTYPE.html](https://github.com/user-attachments/files/22527805/DOCTYPE.html)
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
@@ -34,78 +34,76 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
-<!DOCTYPE html>
+
+[Uploading !DOCTY<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Naïve vs Basic Prompting - Detailed Comparative Report</title>
+  <title>Naïve vs Basic Prompting – Detailed Comparative Report</title>
   <style>
-    body {
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.7;
-      margin: 20px;
-      background-color: #f9fafc;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #1e3a8a;
-    }
-    h1 {
-      text-align: center;
-      border-bottom: 3px solid #2563eb;
-      padding-bottom: 10px;
-      margin-bottom: 30px;
-    }
-    p {
-      margin-bottom: 12px;
-    }
-    code, pre {
-      background: #f1f5f9;
-      padding: 10px;
-      border-radius: 6px;
-      display: block;
-      margin: 10px 0;
-      border-left: 5px solid #2563eb;
-      font-size: 14px;
-    }
-    ul, ol {
-      margin: 12px 0 12px 20px;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin: 20px 0;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
-    th, td {
-      border: 1px solid #d1d5db;
-      padding: 10px;
-      text-align: center;
-    }
-    th {
-      background-color: #2563eb;
-      color: white;
-    }
-    tr:nth-child(even) {
-      background-color: #f3f4f6;
-    }
-    .highlight {
-      background: #e0f2fe;
-      padding: 6px;
-      border-radius: 6px;
-      border-left: 4px solid #0ea5e9;
-      margin: 10px 0;
-    }
-    .conclusion {
-      background: #ecfdf5;
-      padding: 15px;
-      border: 2px solid #10b981;
-      border-radius: 8px;
-      margin-top: 30px;
-    }
+    body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7; margin: 20px; background-color: #f9fafc; color: #333; }
+    h1, h2, h3 { color: #1e3a8a; }
+    h1 { text-align: center; border-bottom: 3px solid #2563eb; padding-bottom: 10px; margin-bottom: 30px; }
+    p { margin-bottom: 12px; }
+    code, pre { background: #f1f5f9; padding: 10px; border-radius: 6px; display: block; margin: 10px 0; border-left: 5px solid #2563eb; font-size: 14px; }
+    ul, ol { margin: 12px 0 12px 20px; }
+    table { border-collapse: collapse; width: 100%; margin: 20px 0; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    th, td { border: 1px solid #d1d5db; padding: 10px; text-align: center; }
+    th { background-color: #2563eb; color: white; }
+    tr:nth-child(even) { background-color: #f3f4f6; }
+    .highlight { background: #e0f2fe; padding: 6px; border-radius: 6px; border-left: 4px solid #0ea5e9; margin: 10px 0; }
+    .conclusion { background: #ecfdf5; padding: 15px; border: 2px solid #10b981; border-radius: 8px; margin-top: 30px; }
   </style>
 </head>
 <body>
+  <h1>Naïve vs Basic Prompting – Detailed Comparative Report</h1>
+  <p>This report compares how ChatGPT responds to naïve prompts versus basic (structured) prompts across different scenarios.</p>
+
+  <h2>Comparative Table</h2>
+  <table>
+    <tr>
+      <th>Scenario</th>
+      <th>Naïve Prompt Output</th>
+      <th>Basic Prompt Output</th>
+      <th>Analysis</th>
+    </tr>
+    <tr>
+      <td>Creative Story</td>
+      <td>Short, vague, lacks depth</td>
+      <td>Detailed, imaginative, structured flow</td>
+      <td>Basic prompts improve creativity and narrative depth</td>
+    </tr>
+    <tr>
+      <td>Factual Question</td>
+      <td>Sometimes incomplete, lacks context</td>
+      <td>Accurate, contextual, often with explanations</td>
+      <td>Basic prompts enhance precision</td>
+    </tr>
+    <tr>
+      <td>Summarization</td>
+      <td>Basic summary, misses points</td>
+      <td>Clear, concise, covers key aspects</td>
+      <td>Basic prompts make summaries reliable</td>
+    </tr>
+    <tr>
+      <td>Advice/Recommendation</td>
+      <td>Generic, not tailored</td>
+      <td>Actionable, well-structured, scenario-specific</td>
+      <td>Basic prompts guide more useful advice</td>
+    </tr>
+  </table>
+
+  <div class="highlight">
+    <strong>Key Insight:</strong> Structured prompts = better quality, accuracy, and depth.
+  </div>
+
+  <div class="conclusion">
+    <h3>Conclusion</h3>
+    <p>Basic (structured) prompts consistently generate superior results in creative, factual, summarization, and advisory tasks. Naïve prompts may work in very simple cases, but lack clarity and detail.</p>
+  </div>
+</body>
+</html>
+PE.html…]()
 
   <h1>📊 Comparative Report: Naïve vs Basic (Refined) Prompting in ChatGPT</h1>
 
